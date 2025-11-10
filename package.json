@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "hono": "^4.5.11",
-    "openai": "^5.10.1"
+    "openai": "^6.8.1"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240529.0",
